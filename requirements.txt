@@ -6,6 +6,6 @@ scikit-learn
 catboost
 xgboost
 dill
-
+Flask
 # pip install -r requirements.txt
 #-e .
